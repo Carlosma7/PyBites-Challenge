@@ -8,4 +8,4 @@
 
 **Finished Challenges**
 
-:heavy_check_mark: [Code Challenge 01 - Word Values Part I](https://github.com/Carlosma7/PyBites-Challenge/01/)
+:heavy_check_mark: [Code Challenge 01 - Word Values Part I](https://github.com/Carlosma7/PyBites-Challenge/tree/main/01)
